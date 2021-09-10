@@ -1,9 +1,9 @@
 # 참고자료
 
-[개념 사이트1](https://hleecaster.com/ml-logistic-regression-concept/) 설명: **
-[시그모이드 개념](https://icim.nims.re.kr/post/easyMath/64) 설명: **
-[개념 사이트2](https://nittaku.tistory.com/478) 설명: ***
-[실습 사이트](https://todayisbetterthanyesterday.tistory.com/11) 설명: *** - 프로세스 명확, sm모델 사용
+[개념 사이트1](https://hleecaster.com/ml-logistic-regression-concept/) 설명: **  
+[시그모이드 개념](https://icim.nims.re.kr/post/easyMath/64) 설명: **  
+[개념 사이트2](https://nittaku.tistory.com/478) 설명: ***  
+[실습 사이트](https://todayisbetterthanyesterday.tistory.com/11) 설명: *** - 프로세스 명확, sm모델 사용  
 
 
 # 개념정리
